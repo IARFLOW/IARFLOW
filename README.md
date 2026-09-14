@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cabecera-en.png" alt="RitLoop on iPhone, iPad and Mac" width="100%">
+  <img src="assets/cabecera-github-2026-09-14.png" alt="RitLoop on iPhone, iPad and Mac" width="100%">
 </p>
 
 # Ignacio Ampurdanés
