@@ -4,19 +4,19 @@
 
 # Ignacio Ampurdanés
 
-Software developer in Cádiz, Spain. Fifteen years as a professional jazz drummer before that, which is where the app below comes from.
+iOS developer in Cádiz, Spain. I've been a professional drummer for more than fifteen years, and that's where the app below comes from.
 
 ## RitLoop
 
-A native app for musicians who learn by ear. Independent tempo and pitch, a waveform you can scrub, A-B loops saved per song, and a beat grid with a metronome that stays on the song when you slow it down. iPhone, iPad and Mac, one codebase.
+A native app for musicians who learn by ear. Slow a song down without changing the pitch, or change the key without touching the tempo. Mark A and B while it plays and zoom into the waveform up to 300x to get the loop just right, and each song keeps its own loops. A beat grid and a metronome stay locked to the record when you slow it down. iPhone, iPad and Mac, one codebase.
 
-Submitted to App Review in September 2026. Built with Swift 6 (strict concurrency), SwiftUI, AVAudioEngine, Accelerate, SwiftData, StoreKit 2 and CloudKit. Localized in 13 languages. No backend.
+On the App Store since October 2026. Built with Swift 6 (strict concurrency), SwiftUI, AVAudioEngine, Accelerate, SwiftData, StoreKit 2 and CloudKit. Localized in 13 languages. No backend.
 
-The repo is private while the app is in review. Privacy and support pages: [ritloop.app/privacy](https://ritloop.app/privacy) · [ritloop.app/support](https://ritloop.app/support)
+[App Store](https://apps.apple.com/app/apple-store/id6809702515?pt=129238563&ct=github&mt=8) · [ritloop.app](https://ritloop.app/) · The code is private.
 
 ## Power Platform
 
-Four-month internship at Plexus Tech in 2026, on the Power Platform team. Three Canvas apps shipped with a teammate: shift and absence management with automatic shift proposals, corporate expenses with receipt capture and approval flows, and warehouse stock. Power Apps, Power Fx, Power Automate and SharePoint, without Premium connectors and working around SharePoint delegation limits as the lists grew.
+Three-month internship at Plexus Tech in 2026, on the Power Platform team. Three Canvas apps shipped with a teammate: shift and absence management with automatic shift proposals, corporate expenses with receipt capture and approval flows, and warehouse stock. Power Apps, Power Fx, Power Automate and SharePoint, without Premium connectors and working around SharePoint delegation limits as the lists grew.
 
 ## Open source
 
